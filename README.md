@@ -10,7 +10,7 @@
 ## useEffect Based Hooks
 
 - [x] useTitle
-- [ ] useClick
+- [x] useClick
 - [ ] useConfirm
 - [ ] usePreventLeave
 - [ ] useBeforeLeave

@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import "./styles.css";
 
 const useTitle = (initialTitle) => {
   const [title, setTitle] = React.useState(initialTitle);
