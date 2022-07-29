@@ -9,7 +9,7 @@
 
 ## useEffect Based Hooks
 
-- [ ] useTitle
+- [x] useTitle
 - [ ] useClick
 - [ ] useConfirm
 - [ ] usePreventLeave
