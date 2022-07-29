@@ -5,7 +5,7 @@
 ### useState Based Hooks
 
 - [x] useInput
-- [ ] useTab
+- [x] useTabs
 
 ## useEffect Based Hooks
 
